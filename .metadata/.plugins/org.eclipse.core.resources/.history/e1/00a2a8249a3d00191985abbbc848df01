@@ -1,0 +1,13 @@
+package org.restful.demo.messenger.model;
+
+import java.util.Date;
+
+public class Profile {
+	
+	private long  profileId;
+	private String profileName;
+	private String firtsName;
+	private String lastName;
+	private Date created;
+
+}

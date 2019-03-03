@@ -1,0 +1,16 @@
+package org.restful.demo.messenger.service;
+
+import java.util.List;
+
+import org.restful.demo.messenger.model.Message;
+
+public class MessageService {
+
+	public List<Message> getAllMessags(){
+		
+		Message m1 = new Message(1, "hello", "Deepshikha");
+		Message m2 = new Message(2, "hello, How are you?", "Tarang");
+		List<messages> list = new ArrayList();
+		
+	}
+}

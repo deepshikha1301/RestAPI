@@ -1,0 +1,5 @@
+package org.restful.demo.messenger.database;
+
+public class Database {
+
+}

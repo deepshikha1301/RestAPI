@@ -1,0 +1,5 @@
+package org.restful.demo.messenger.resources;
+
+public class MessageResource {
+
+}
